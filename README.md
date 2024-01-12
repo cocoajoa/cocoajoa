@@ -1,4 +1,5 @@
-### Hi there 👋
+### Cat will rule the world
+![cat the god](귀여운냥이.gif)
 
 <!--
 **cocoajoa/cocoajoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
